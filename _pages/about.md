@@ -21,9 +21,7 @@ latest_posts:
 
 <div id="portfolio-top"></div>
 
-<p class="portfolio-intro">Bienvenue sur mon e-portfolio. Découvrez mon parcours en école d'ingénieurs, mes projets, mes expériences à l'international, mes engagements et mon développement professionnel.</p>
-
-<nav class="portfolio-nav" aria-label="Navigation entre les sections du portfolio">
+<nav class="portfolio-nav" aria-label="Six rubriques du e-portfolio">
   <a href="#welcome">Welcome</a>
   <a href="#engineering-course">Engineering course</a>
   <a href="#international-mobility">International Mobility</a>
@@ -31,6 +29,10 @@ latest_posts:
   <a href="#sport-other-activities">Sport & other activities</a>
   <a href="#career-development">Career Development</a>
 </nav>
+
+
+<p class="portfolio-intro">Bienvenue sur mon e-portfolio. Découvrez mon parcours en école d'ingénieurs, mes projets, mes expériences à l'international, mes engagements et mon développement professionnel.</p>
+
 
 ## Welcome {#welcome}
 
