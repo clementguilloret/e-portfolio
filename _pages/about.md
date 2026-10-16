@@ -1,34 +1,166 @@
 ---
 layout: about
-title: about
+title: Welcome
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "Étudiant ingénieur · Projets, expériences et engagements"
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: profil_cg.png
+  image_circular: false
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+selected_papers: false
+social: false
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
+  enabled: false
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<link rel="stylesheet" href="{{ '/assets/css/eportfolio.css' | relative_url }}">
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<div id="portfolio-top"></div>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p class="portfolio-intro">Bienvenue sur mon e-portfolio. Découvrez mon parcours en école d'ingénieurs, mes projets, mes expériences à l'international, mes engagements et mon développement professionnel.</p>
+
+<nav class="portfolio-nav" aria-label="Navigation entre les sections du portfolio">
+  <a href="#welcome">Welcome</a>
+  <a href="#engineering-course">Engineering course</a>
+  <a href="#international-mobility">International Mobility</a>
+  <a href="#sustainability-civic-engagement">Sustainability & Civic Engagement</a>
+  <a href="#sport-other-activities">Sport & other activities</a>
+  <a href="#career-development">Career Development</a>
+</nav>
+
+## Welcome {#welcome}
+
+### About me
+
+Je m'appelle **Clément Guilloret**. Ce portfolio présente mon évolution au cours de ma formation d'ingénieur et les compétences développées lors de mes différentes expériences.
+
+**À compléter :** mon école, ma spécialité, ma promotion, les domaines techniques qui m'intéressent et mes objectifs.
+
+### My objectives
+
+- **Apprendre :** approfondir mes connaissances et mes compétences techniques.
+- **Construire :** documenter mes réalisations, du besoin initial aux résultats obtenus.
+- **Évoluer :** développer mes compétences humaines, interculturelles et professionnelles.
+
+---
+
+## Engineering course {#engineering-course}
+
+Cette section rassemble mon parcours académique, les projets réalisés pendant ma formation et mes productions techniques.
+
+**Navigation rapide :** [Projects](#projects) · [Productions](#productions)
+
+### Projects {#projects}
+
+#### Projet 01 — [Nom du projet]
+
+> **Contexte :** [Cours, module ou problématique]
+>
+> **Objectif :** [Ce que je devais concevoir, analyser ou résoudre]
+>
+> **Ma contribution :** [Mes missions et mon rôle dans l'équipe]
+>
+> **Outils et compétences :** [Logiciels, langages, méthodes, compétences]
+>
+> **Résultats :** [Livrables, tests, résultats chiffrés ou enseignements]
+
+*Ajoutez ici une photo, un schéma, un rapport ou un lien vers le dépôt du projet.*
+
+#### Projet 02 — [Nom du projet]
+
+Présentez ici un second projet en suivant le même modèle : **contexte, objectifs, démarche, contribution, résultats et bilan personnel**.
+
+### Productions {#productions}
+
+Vous pouvez regrouper ici vos productions :
+
+- **Rapports techniques :** [Titre et lien vers un PDF]
+- **Présentations :** [Titre et lien vers des diapositives]
+- **Prototypes ou programmes :** [Description et lien vers un dépôt GitHub]
+- **Autres livrables :** [Plans, simulations, réalisations, analyses]
+
+---
+
+## International Mobility {#international-mobility}
+
+Mes apprentissages linguistiques, expériences interculturelles et activités liées à l'ouverture internationale.
+
+**Navigation rapide :** [PCE](#pce) · [LV2](#lv2)
+
+### PCE {#pce}
+
+**À compléter :** décrivez ici vos activités PCE, leurs objectifs, les réalisations menées et les compétences interculturelles acquises.
+
+### LV2 {#lv2}
+
+**Langue étudiée :** [À renseigner]
+
+- **Activités réalisées :** [Projets, exposés, échanges, exercices]
+- **Compétences développées :** [Expression, compréhension, travail en équipe]
+- **Bilan personnel :** [Progrès et pistes d'amélioration]
+
+---
+
+## Sustainability & Civic Engagement {#sustainability-civic-engagement}
+
+Cette section documente mes réflexions et mes actions concernant la transition écologique, la responsabilité sociale et l'engagement citoyen.
+
+### Sustainability
+
+**À compléter :** un projet, un atelier, une initiative ou une expérience en lien avec le développement durable.
+
+### Civic Engagement
+
+**À compléter :** une activité associative, bénévole ou citoyenne, avec les missions réalisées et les enseignements tirés.
+
+---
+
+## Sport & other activities {#sport-other-activities}
+
+Les activités extra-académiques contribuent aussi au développement personnel et collectif.
+
+### Sport
+
+**À compléter :** sports pratiqués, fréquence, compétitions ou événements et compétences développées (persévérance, esprit d'équipe, discipline…).
+
+### Other activities
+
+**À compléter :** associations, loisirs créatifs, activités culturelles ou autres engagements.
+
+---
+
+## Career Development {#career-development}
+
+Je présente ici les expériences et démarches qui contribuent à construire mon projet professionnel.
+
+**Navigation rapide :** [Internships](#internships) · [PEP](#pep)
+
+### Internships {#internships}
+
+#### Stage 01 — [Entreprise / organisme]
+
+- **Période :** [Dates]
+- **Mission principale :** [Objet du stage]
+- **Actions réalisées :** [Responsabilités et méthodes]
+- **Compétences acquises :** [Techniques, organisationnelles, relationnelles]
+- **Bilan personnel :** [Résultats et apprentissages]
+
+### PEP {#pep}
+
+**À compléter :** présentez ici votre PEP, les étapes de votre réflexion et l'évolution de votre projet professionnel.
+
+### Mon projet professionnel
+
+**Secteurs ou métiers qui m'intéressent :** [À renseigner]
+
+**Compétences à approfondir :** [À renseigner]
+
+**Prochaines étapes :** [À renseigner]
+
+---
+
+<p class="portfolio-footer-link">Retrouvez mes travaux sur <a href="https://github.com/clementguilloret">GitHub</a> · <a href="#portfolio-top">↑ Retour en haut</a></p>
