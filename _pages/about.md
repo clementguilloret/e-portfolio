@@ -52,52 +52,15 @@ Cette section rassemble mon parcours académique, les projets réalisés pendant
 
 ### Projects {#projects}
 
-#### Projet 01 — [Nom du projet]
-
-> **Contexte :** [Cours, module ou problématique]
->
-> **Objectif :** [Ce que je devais concevoir, analyser ou résoudre]
->
-> **Ma contribution :** [Mes missions et mon rôle dans l'équipe]
->
-> **Outils et compétences :** [Logiciels, langages, méthodes, compétences]
->
-> **Résultats :** [Livrables, tests, résultats chiffrés ou enseignements]
-
-*Ajoutez ici une photo, un schéma, un rapport ou un lien vers le dépôt du projet.*
-
-#### Projet 02 — [Nom du projet]
-
-Présentez ici un second projet en suivant le même modèle : **contexte, objectifs, démarche, contribution, résultats et bilan personnel**.
-
-### Productions {#productions}
-
-Vous pouvez regrouper ici vos productions :
-
-- **Rapports techniques :** [Titre et lien vers un PDF]
-- **Présentations :** [Titre et lien vers des diapositives]
-- **Prototypes ou programmes :** [Description et lien vers un dépôt GitHub]
-- **Autres livrables :** [Plans, simulations, réalisations, analyses]
+#### Projet 1 — [À compléter]
 
 ---
 
 ## International Mobility {#international-mobility}
 
-Mes apprentissages linguistiques, expériences interculturelles et activités liées à l'ouverture internationale.
+My main goal is to complete a research internship to develop my technical skills in cybersecurity. 
 
-**Navigation rapide :** [PCE](#pce) · [LV2](#lv2)
-
-### PCE {#pce}
-
-**À compléter :** décrivez ici vos activités PCE, leurs objectifs, les réalisations menées et les compétences interculturelles acquises.
-
-### LV2 {#lv2}
-
-**Langue étudiée :** [À renseigner]
-
-- **Activités réalisées :** [Projets, exposés, échanges, exercices]
-- **Compétences développées :** [Expression, compréhension, travail en équipe]
-- **Bilan personnel :** [Progrès et pistes d'amélioration]
+Target Destination:  I am particularly interested in the CISPA Helmholtz Center for Information Security, located in Saarbrücken, Germany, due to its expertise in cybersecurity research.
 
 ---
 
@@ -105,13 +68,11 @@ Mes apprentissages linguistiques, expériences interculturelles et activités li
 
 Cette section documente mes réflexions et mes actions concernant la transition écologique, la responsabilité sociale et l'engagement citoyen.
 
-### Sustainability
+### Sustainability & Civic Engagement
 
-**À compléter :** un projet, un atelier, une initiative ou une expérience en lien avec le développement durable.
+I had the opportunity to participate in *The Trial of King Kong* at ENSEEIHT, an interactive play addressing sexual and gender-based violence and its consequences. This experience encouraged me to reflect on these important social issues and gain a deeper understanding of their impact.
 
-### Civic Engagement
-
-**À compléter :** une activité associative, bénévole ou citoyenne, avec les missions réalisées et les enseignements tirés.
+I also took part in a clean walk organized by ENSEEIHT, aimed at collecting litter and preserving the local environment.
 
 ---
 
@@ -121,41 +82,14 @@ Les activités extra-académiques contribuent aussi au développement personnel 
 
 ### Sport
 
-**À compléter :** sports pratiqués, fréquence, compétitions ou événements et compétences développées (persévérance, esprit d'équipe, discipline…).
-
-### Other activities
-
-**À compléter :** associations, loisirs créatifs, activités culturelles ou autres engagements.
+I play volleyball with the ENSEEIHT Sports Association (AS), which allows me to develop my teamwork skills.
 
 ---
 
 ## Career Development {#career-development}
 
-Je présente ici les expériences et démarches qui contribuent à construire mon projet professionnel.
 
-**Navigation rapide :** [Internships](#internships) · [PEP](#pep)
-
-### Internships {#internships}
-
-#### Stage 01 — [Entreprise / organisme]
-
-- **Période :** [Dates]
-- **Mission principale :** [Objet du stage]
-- **Actions réalisées :** [Responsabilités et méthodes]
-- **Compétences acquises :** [Techniques, organisationnelles, relationnelles]
-- **Bilan personnel :** [Résultats et apprentissages]
-
-### PEP {#pep}
-
-**À compléter :** présentez ici votre PEP, les étapes de votre réflexion et l'évolution de votre projet professionnel.
-
-### Mon projet professionnel
-
-**Secteurs ou métiers qui m'intéressent :** [À renseigner]
-
-**Compétences à approfondir :** [À renseigner]
-
-**Prochaines étapes :** [À renseigner]
+#### Stage 1 — [À Compléter]
 
 ---
 
