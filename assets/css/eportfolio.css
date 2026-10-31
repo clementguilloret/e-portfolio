@@ -12,14 +12,6 @@ body:has(.portfolio-nav) .post {
   padding-top: 4.6rem;
 }
 
-.portfolio-intro {
-  font-size: 1.075rem;
-  line-height: 1.75;
-  max-width: 48rem;
-  margin: 0 0 1.5rem;
-  color: var(--global-text-color, #333);
-}
-
 /* Bandeau toujours tout en haut, juste sous la barre principale d'al-folio. */
 .portfolio-nav {
   position: fixed;
@@ -82,11 +74,7 @@ body:has(.portfolio-nav) .post {
 #sport-other-activities,
 #career-development,
 #projects,
-#productions,
-#pce,
-#lv2,
-#internships,
-#pep {
+#productions {
   scroll-margin-top: 152px;
 }
 
@@ -133,10 +121,6 @@ body:has(.portfolio-nav) .post {
     padding-top: 4.3rem;
   }
 
-  .portfolio-intro {
-    font-size: 1rem;
-  }
-
   #welcome,
   #engineering-course,
   #international-mobility,
@@ -144,11 +128,7 @@ body:has(.portfolio-nav) .post {
   #sport-other-activities,
   #career-development,
   #projects,
-  #productions,
-  #pce,
-  #lv2,
-  #internships,
-  #pep {
+  #productions {
     scroll-margin-top: 136px;
   }
 }
