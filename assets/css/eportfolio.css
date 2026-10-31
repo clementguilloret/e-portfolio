@@ -54,7 +54,9 @@ body:has(.portfolio-nav) .post {
   line-height: 1.35;
   text-decoration: none !important;
   color: var(--global-text-color, #222);
-  transition: background-color 0.17s ease, color 0.17s ease;
+  transition:
+    background-color 0.17s ease,
+    color 0.17s ease;
 }
 
 .portfolio-nav a:hover,

@@ -64,7 +64,7 @@ Cette section documente mes réflexions et mes actions concernant la transition 
 
 ### Sustainability & Civic Engagement
 
-I had the opportunity to participate in *The Trial of King Kong* at ENSEEIHT, an interactive play addressing sexual and gender-based violence and its consequences. This experience encouraged me to reflect on these important social issues and gain a deeper understanding of their impact.
+I had the opportunity to participate in _The Trial of King Kong_ at ENSEEIHT, an interactive play addressing sexual and gender-based violence and its consequences. This experience encouraged me to reflect on these important social issues and gain a deeper understanding of their impact.
 
 I also took part in a clean walk organized by ENSEEIHT, aimed at collecting litter and preserving the local environment.
 
