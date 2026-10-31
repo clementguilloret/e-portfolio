@@ -30,7 +30,7 @@ latest_posts:
   <a href="#career-development">Career Development</a>
 </nav>
 
-## Clément Guilloret {#welcome}
+## Welcome {#welcome}
 
 ---
 
