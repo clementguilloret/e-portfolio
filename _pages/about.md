@@ -2,6 +2,7 @@
 layout: about
 title: Welcome
 permalink: /
+subtitle: "Étudiant ingénieur · Projets, expériences et engagements"
 
 profile:
   align: right
@@ -30,9 +31,16 @@ latest_posts:
 </nav>
 
 
-<div id="welcome" aria-label="Clément Guilloret"></div>
+<p class="portfolio-intro">Bienvenue sur mon e-portfolio. Découvrez mon parcours en école d'ingénieurs, mes projets, mes expériences à l'international, mes engagements et mon développement professionnel.</p>
 
-<p class="portfolio-intro">Étudiant en première année à l’ENSEEIHT en filière Science du Numérique.</p>
+
+## Clément Guilloret {#welcome}
+
+--- 
+
+Étudiant en première année à l’ENSEEIHT en filière Science du Numérique.
+
+**À compléter :** mon école, ma spécialité, ma promotion, les domaines techniques qui m'intéressent et mes objectifs.
 
 ---
 
