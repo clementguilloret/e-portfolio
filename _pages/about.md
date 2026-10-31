@@ -2,7 +2,6 @@
 layout: about
 title: Welcome
 permalink: /
-subtitle: "Étudiant ingénieur · Projets, expériences et engagements"
 
 profile:
   align: right
@@ -31,22 +30,9 @@ latest_posts:
 </nav>
 
 
-<p class="portfolio-intro">Bienvenue sur mon e-portfolio. Découvrez mon parcours en école d'ingénieurs, mes projets, mes expériences à l'international, mes engagements et mon développement professionnel.</p>
+<div id="welcome" aria-label="Clément Guilloret"></div>
 
-
-## Welcome {#welcome}
-
-### About me
-
-Je m'appelle **Clément Guilloret**. Ce portfolio présente mon évolution au cours de ma formation d'ingénieur et les compétences développées lors de mes différentes expériences.
-
-**À compléter :** mon école, ma spécialité, ma promotion, les domaines techniques qui m'intéressent et mes objectifs.
-
-### My objectives
-
-- **Apprendre :** approfondir mes connaissances et mes compétences techniques.
-- **Construire :** documenter mes réalisations, du besoin initial aux résultats obtenus.
-- **Évoluer :** développer mes compétences humaines, interculturelles et professionnelles.
+<p class="portfolio-intro">Étudiant en première année à l’ENSEEIHT en filière Science du Numérique.</p>
 
 ---
 
