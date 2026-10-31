@@ -31,9 +31,6 @@ latest_posts:
 </nav>
 
 
-<p class="portfolio-intro">Bienvenue sur mon e-portfolio. Découvrez mon parcours en école d'ingénieurs, mes projets, mes expériences à l'international, mes engagements et mon développement professionnel.</p>
-
-
 ## Clément Guilloret {#welcome}
 
 --- 
@@ -75,8 +72,6 @@ I also took part in a clean walk organized by ENSEEIHT, aimed at collecting litt
 ---
 
 ## Sport & other activities {#sport-other-activities}
-
-Les activités extra-académiques contribuent aussi au développement personnel et collectif.
 
 ### Sport
 
