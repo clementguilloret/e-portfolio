@@ -30,10 +30,9 @@ latest_posts:
   <a href="#career-development">Career Development</a>
 </nav>
 
-
 ## Clément Guilloret {#welcome}
 
---- 
+---
 
 Étudiant en première année à l’ENSEEIHT en filière Science du Numérique.
 
@@ -53,9 +52,9 @@ Cette section rassemble mon parcours académique, les projets réalisés pendant
 
 ## International Mobility {#international-mobility}
 
-My main goal is to complete a research internship to develop my technical skills in cybersecurity. 
+My main goal is to complete a research internship to develop my technical skills in cybersecurity.
 
-Target Destination:  I am particularly interested in the CISPA Helmholtz Center for Information Security, located in Saarbrücken, Germany, due to its expertise in cybersecurity research.
+Target Destination: I am particularly interested in the CISPA Helmholtz Center for Information Security, located in Saarbrücken, Germany, due to its expertise in cybersecurity research.
 
 ---
 
@@ -80,7 +79,6 @@ I play volleyball with the ENSEEIHT Sports Association (AS), which allows me to 
 ---
 
 ## Career Development {#career-development}
-
 
 #### Stage 1 — [À Compléter]
 
