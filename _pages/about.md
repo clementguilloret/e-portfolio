@@ -48,8 +48,6 @@ latest_posts:
 
 Cette section rassemble mon parcours académique, les projets réalisés pendant ma formation et mes productions techniques.
 
-**Navigation rapide :** [Projects](#projects) · [Productions](#productions)
-
 ### Projects {#projects}
 
 #### Projet 1 — [À compléter]
