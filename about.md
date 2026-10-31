@@ -30,7 +30,6 @@ latest_posts:
   <a href="#career-development">Career Development</a>
 </nav>
 
-
 <div id="welcome" aria-label="Présentation"></div>
 
 <p class="portfolio-intro">Bienvenue sur mon e-portfolio. Vous trouverez ici un aperçu de mon parcours en école d'ingénieurs, de mes projets, de mes expériences à l'international, de mes engagements et de mon développement professionnel.</p>
@@ -57,7 +56,7 @@ Cette section rassemble mon parcours académique, les projets réalisés pendant
 >
 > **Résultats :** [Livrables, tests, résultats chiffrés ou enseignements]
 
-*Ajoutez ici une photo, un schéma, un rapport ou un lien vers le dépôt du projet.*
+_Ajoutez ici une photo, un schéma, un rapport ou un lien vers le dépôt du projet._
 
 #### Projet 02 — [Nom du projet]
 
