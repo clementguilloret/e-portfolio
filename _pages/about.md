@@ -47,9 +47,9 @@ Engineering student at ENSEEIHT (SN).
 
 ## Engineering course {#engineering-course}
 
-2026      - ENSEEIHT ‐ DIGITAL SCIENCES (Toulouse)
-2025-2026 - PREPARATORY CLASS ‐ MPI (Descartes, Tours)
-2023-2025 - PREPARATORY CLASSES ‐ MP2I/MPI (Henri Poincaré, Nancy)
+2026      - ENSEEIHT ‐ DIGITAL SCIENCES (Toulouse)<br>
+2025-2026 - PREPARATORY CLASS ‐ MPI (Descartes, Tours)<br>
+2023-2025 - PREPARATORY CLASSES ‐ MP2I/MPI (Henri Poincaré, Nancy)<br>
 
 ---
 
