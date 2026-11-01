@@ -84,5 +84,3 @@ I play volleyball with the ENSEEIHT Sports Association (AS), which allows me to 
 You can view or download my CV in either language:
 
 **[🇫🇷 French CV (PDF)]({{ '/assets/pdf/CV_Clement_Guilloret_FR.pdf' | relative_url }})** · **[🇬🇧 English CV (PDF)]({{ '/assets/pdf/CV_Clement_Guilloret_EN.pdf' | relative_url }})**
-
-<p class="portfolio-footer-link">Retrouvez mes travaux sur <a href="https://github.com/clementguilloret">GitHub</a> · <a href="#portfolio-top">↑ Retour en haut</a></p>
