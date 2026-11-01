@@ -92,12 +92,6 @@ body:has(.portfolio-nav) .post {
   border-color: var(--global-theme-color, #cb2a98);
 }
 
-.portfolio-footer-link {
-  text-align: center;
-  padding: 1.5rem 0 2rem;
-  margin-top: 2rem;
-}
-
 /* Sur mobile, les six liens sont accessibles en balayant le bandeau horizontalement. */
 @media (max-width: 980px) {
   .portfolio-nav {
