@@ -2,6 +2,7 @@
 layout: about
 title: Welcome
 permalink: /
+subtitle: "Étudiant ingénieur · Projets, expériences et engagements"
 
 profile:
   align: right
@@ -31,7 +32,11 @@ latest_posts:
 
 ## Clément Guilloret {#welcome}
 
+---
+
 Étudiant en première année à l’ENSEEIHT en filière Science du Numérique.
+
+**À compléter :** mon école, ma spécialité, ma promotion, les domaines techniques qui m'intéressent et mes objectifs.
 
 ---
 
@@ -39,9 +44,11 @@ latest_posts:
 
 Cette section rassemble mon parcours académique, les projets réalisés pendant ma formation et mes productions techniques.
 
-## Projects {#projects}
+### Projects {#projects}
 
-### Projet 1 — [À compléter]
+#### Projet 1 — [À compléter]
+
+---
 
 ## International Mobility {#international-mobility}
 
@@ -49,13 +56,19 @@ My main goal is to complete a research internship to develop my technical skills
 
 Target Destination: I am particularly interested in the CISPA Helmholtz Center for Information Security, located in Saarbrücken, Germany, due to its expertise in cybersecurity research.
 
+---
 
 ## Sustainability & Civic Engagement {#sustainability-civic-engagement}
 
-I had the opportunity to participate in _The Trial of King Kong_ at ENSEEIHT, an interactive play addressing sexual and gender-based violence and its consequences. This experience encouraged me to reflect on these important social issues and gain a deeper understanding of their impact.
+Cette section documente mes réflexions et mes actions concernant la transition écologique, la responsabilité sociale et l'engagement citoyen.
+
+### Sustainability & Civic Engagement
+
+I had the opportunity to participate in *The Trial of King Kong* at ENSEEIHT, an interactive play addressing sexual and gender-based violence and its consequences. This experience encouraged me to reflect on these important social issues and gain a deeper understanding of their impact.
 
 I also took part in a clean walk organized by ENSEEIHT, aimed at collecting litter and preserving the local environment.
 
+---
 
 ## Sport & other activities {#sport-other-activities}
 
@@ -63,9 +76,18 @@ I also took part in a clean walk organized by ENSEEIHT, aimed at collecting litt
 
 I play volleyball with the ENSEEIHT Sports Association (AS), which allows me to develop my teamwork skills.
 
+---
 
 ## Career Development {#career-development}
 
-### Stage 1 — [À Compléter]
+### Curriculum Vitae
+
+You can view or download my CV in either language:
+
+**[🇫🇷 French CV (PDF)]({{ '/assets/pdf/CV_Clement_Guilloret_FR.pdf' | relative_url }})** · **[🇬🇧 English CV (PDF)]({{ '/assets/pdf/CV_Clement_Guilloret_EN.pdf' | relative_url }})**
+
+#### Stage 1 — [À Compléter]
 
 ---
+
+<p class="portfolio-footer-link">Retrouvez mes travaux sur <a href="https://github.com/clementguilloret">GitHub</a> · <a href="#portfolio-top">↑ Retour en haut</a></p>
