@@ -73,8 +73,7 @@ body:has(.portfolio-nav) .post {
 #sustainability-civic-engagement,
 #sport-other-activities,
 #career-development,
-#projects,
-#productions {
+#projects {
   scroll-margin-top: 152px;
 }
 
@@ -127,8 +126,7 @@ body:has(.portfolio-nav) .post {
   #sustainability-civic-engagement,
   #sport-other-activities,
   #career-development,
-  #projects,
-  #productions {
+  #projects {
     scroll-margin-top: 136px;
   }
 }
