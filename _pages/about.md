@@ -47,19 +47,15 @@ Engineering student at ENSEEIHT (SN).
 
 ## Engineering course {#engineering-course}
 
-Cette section rassemble mon parcours académique, les projets réalisés pendant ma formation et mes productions techniques.
-
-### Projects {#projects}
-
-#### Projet 1 — [À compléter]
+2026      - ENSEEIHT ‐ DIGITAL SCIENCES (Toulouse)
+2025-2026 - PREPARATORY CLASS ‐ MPI (Descartes, Tours)
+2023-2025 - PREPARATORY CLASSES ‐ MP2I/MPI (Henri Poincaré, Nancy)
 
 ---
 
 ## International Mobility {#international-mobility}
 
 My main goal is to complete a research internship to develop my technical skills in cybersecurity.
-
-Target Destination: I am particularly interested in the CISPA Helmholtz Center for Information Security, located in Saarbrücken, Germany, due to its expertise in cybersecurity research.
 
 ---
 
