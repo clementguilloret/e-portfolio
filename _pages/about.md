@@ -75,7 +75,7 @@ I play volleyball with the ENSEEIHT Sports Association (AS), which allows me to 
 
 ## Career Development {#career-development}
 
-#### Stage 1 — [À Compléter]
+#### Stage — [To complete]
 
 ---
 
